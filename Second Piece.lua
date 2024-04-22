@@ -1,1 +1,1 @@
-print("Down until update being confirmed not to be detected")
+loadstring(game:HttpGet("https://www.assasine03.com/Scripts/SecondPiece.lua", true))()
